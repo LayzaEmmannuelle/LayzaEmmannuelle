@@ -122,7 +122,7 @@ Projeto de desenvolvimento backend com JavaScript e Node.js, utilizando Express 
 
 <div align="center">
 
-### ☾ Sempre aprendendo, sempre construindo.
+### .✦ ݁˖ Sempre aprendendo, sempre construindo..✦ ݁˖
 
 *Obrigada por visitar meu perfil!* ♡
 
