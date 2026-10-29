@@ -87,13 +87,13 @@ Projeto de visão computacional aplicado à robótica, utilizando YOLOv8 para tr
 </td>
 <td width="50%" valign="top">
 
-<h3>💻 Programação Web</h3>
+< h3>💻 Programação Web</h3>
 
 <p align="justify">
-Projeto de desenvolvimento backend com JavaScript e Node.js, voltado à construção de APIs REST, organização de rotas e implementação de funcionalidades para aplicações web.
+Projeto de desenvolvimento backend com JavaScript e Node.js, utilizando Express para a construção de APIs REST e Prisma ORM para facilitar a comunicação com o banco de dados e o gerenciamento das operações de persistência.
 </p>
 
-**Tecnologias:** JavaScript · Node.js · Express
+**Tecnologias:** JavaScript · Node.js · Express · Prisma ORM
 
 <a href="https://github.com/FelipeCRAguiar/ProgWeb_Back">
   <img src="https://img.shields.io/badge/Ver%20projeto-C4A7E7?style=for-the-badge&logo=github&logoColor=white"/>
