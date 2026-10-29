@@ -54,7 +54,7 @@ Gosto de conhecer novas ferramentas, experimentar ideias e aprender com cada pro
 **Bancos de dados e ORM**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" alt="PostgreSQL, MySQL e Prisma"/>
-<img src="https://img.shields.io/badge/TypeORM-181717?style=flat-square&logo=typeorm&logoColor=E83524" alt="TypeORM"/>
+<img src="https://img.shields.io/badge/TypeORM-C4A7E7?style=for-the-badge&logo=typeorm&logoColor=0D1117" alt="TypeORM"/>
 
 <br/><br/>
 
