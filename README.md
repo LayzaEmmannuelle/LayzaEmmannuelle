@@ -58,10 +58,9 @@ Gosto de conhecer novas ferramentas, experimentar ideias e aprender com cada pro
 
 <br/><br/>
 
-**Ferramentas e visão computacional**
+**Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e VS Code"/>
-<img src="https://img.shields.io/badge/YOLOv8-181717?style=flat-square&logoColor=C4A7E7" alt="YOLOv8"/>
 
 </div>
 
