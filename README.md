@@ -87,7 +87,7 @@ Projeto de visão computacional aplicado à robótica, utilizando YOLOv8 para tr
 </td>
 <td width="50%" valign="top">
 
-< h3>💻 Programação Web</h3>
+<h3>💻 Programação Web</h3>
 
 <p align="justify">
 Projeto de desenvolvimento backend com JavaScript e Node.js, utilizando Express para a construção de APIs REST e Prisma ORM para facilitar a comunicação com o banco de dados e o gerenciamento das operações de persistência.
