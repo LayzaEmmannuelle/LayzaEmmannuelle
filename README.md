@@ -17,13 +17,6 @@
 <a href="https://github.com/LayzaEmmannuelle?tab=repositories">
   <img src="https://img.shields.io/badge/MEUS%20PROJETOS-8B6BBE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://github.com/LayzaEmmannuelle">
-  <img src="https://img.shields.io/badge/GitHub-LayzaEmmannuelle-C4A7E7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/LayzaEmmannuelle?tab=repositories">
-  <img src="https://img.shields.io/badge/MEUS%20PROJETOS-8B6BBE?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/layza-emmanuelle-costa-862b78377/">
   <img src="https://img.shields.io/badge/LinkedIn-Layza%20Emmanuelle-C4A7E7?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
