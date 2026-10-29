@@ -1,86 +1,110 @@
 
-# 👩🏻‍💻 Layza Emmanuelle
+<div align="center">
 
-**`Estudante de Sistemas de Informação | Desenvolvedora de Software`**
+# ✦ LAYZA EMMANUELLE
 
-Olá! Sou estudante de Sistemas de Informação no CEFET/RJ e gosto de aprender tecnologia desenvolvendo projetos na prática. Ao longo da graduação, venho explorando diferentes áreas, desde a criação de APIs e o desenvolvimento backend até bancos de dados e visão computacional.
+### `Sistemas de Informação · CEFET/RJ`
 
-Já trabalhei com tecnologias como Java, JavaScript, TypeScript e Python, além de ferramentas como Node.js, Express, NestJS e Spring Boot. Também participo de um projeto de robótica com visão computacional utilizando YOLOv8 para detecção de robôs.
+*Transformando aprendizado em projetos e ideias em código.*
 
-Além dos projetos acadêmicos, faço parte do **IEEE IES CEFET/RJ**, onde participo de atividades técnicas, comunicação e organização.
+<br/>
 
+<a href="https://github.com/LayzaEmmannuelle">
+  <img src="https://img.shields.io/badge/GitHub-LayzaEmmannuelle-9B7EBD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/LayzaEmmannuelle?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJETOS-6C4AB6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-
-<p align="left">
-  <a href="https://github.com/LayzaEmmannuelle">
-    <img src="https://img.shields.io/badge/GitHub-LayzaEmmannuelle-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/LayzaEmmannuelle?tab=repositories">
-    <img src="https://img.shields.io/badge/Meus%20projetos-Explorar-8A2BE2?style=for-the-badge&logo=github" alt="Meus projetos"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### 💻 Linguagens e Tecnologias
+## 𖹭 Sobre mim
 
-#### Linguagens
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" alt="Java, JavaScript, TypeScript e Python"/>
-</p>
+Oi! Sou a Layza, estudante de Sistemas de Informação no CEFET/RJ. Gosto de aprender colocando a mão na massa, desenvolvendo projetos e explorando diferentes possibilidades dentro da tecnologia.
 
-#### Desenvolvimento de Software
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" alt="Node.js, Express, NestJS e Spring Boot"/>
-</p>
+Tenho trabalhado com desenvolvimento de software, APIs, bancos de dados e Python. Também participo de um projeto de visão computacional com **YOLOv8**, aplicado à detecção de robôs.
 
-#### Banco de Dados e ORM
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" alt="PostgreSQL, MySQL e Prisma"/>
-  <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM"/>
-</p>
+Fora dos projetos, faço parte do **IEEE IES CEFET/RJ**, onde participo de atividades técnicas, comunicação e organização.
 
-#### Ferramentas e Outras Tecnologias
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VS Code"/>
-  <img src="https://img.shields.io/badge/YOLOv8-Vis%C3%A3o%20Computacional-111F68?style=for-the-badge" alt="YOLOv8 e visão computacional"/>
-</p>
+Atualmente, meu foco é continuar aprendendo, evoluir como desenvolvedora e construir projetos cada vez mais completos. ♡
 
 ---
 
-### 🚀 Projetos em Destaque
+## ⟡ Tecnologias
 
-- **[Chonbot Computer Vision](https://github.com/chon-lab/chonbot-computer-vision)** — projeto de visão computacional com YOLOv8 para detecção e identificação de robôs.
-- **[Programação Web](https://github.com/LayzaEmmannuelle/ProgramacaoWeb)** — repositório com projetos e exercícios de desenvolvimento web, APIs e backend.
+<div align="center">
 
----
+### Linguagens
 
-### 📊 Estatísticas do GitHub
+<img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" />
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=LayzaEmmannuelle&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    alt="Estatísticas do GitHub da Layza"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayzaEmmannuelle&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
-    alt="Linguagens mais utilizadas pela Layza"
-  />
-</p>
+### Backend
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=LayzaEmmannuelle&theme=tokyonight&locale=pt_BR"
-    alt="Sequência de contribuições no GitHub"
-  />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&theme=dark" />
+
+### Banco de dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
-### 🌱 Sempre aprendendo
+## ✧ Projetos
 
-Acredito que cada projeto é uma oportunidade de aprender algo novo, melhorar minhas habilidades e descobrir outras possibilidades dentro da tecnologia.
+<table>
+<tr>
+<td width="50%">
 
-**Vamos nos conectar e compartilhar conhecimento!** 💜
+### 🤖 Chonbot Computer Vision
+
+Projeto de visão computacional com YOLOv8 para detecção de robôs.
+
+**Tecnologias:** Python · YOLOv8
+
+<a href="https://github.com/chon-lab/chonbot-computer-vision">↗ Ver repositório</a>
+
+</td>
+<td width="50%">
+
+### 💻 Programação Web
+
+Projetos e exercícios de desenvolvimento web, APIs e backend.
+
+**Tecnologias:** JavaScript · Node.js
+
+<a href="https://github.com/LayzaEmmannuelle/ProgramacaoWeb">↗ Ver repositório</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⌁ GitHub em números
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LayzaEmmannuelle&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4A7E7&icon_color=BB9AF7&text_color=E6EDF3&locale=pt-br" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayzaEmmannuelle&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4A7E7&text_color=E6EDF3&langs_count=6&locale=pt-br" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ☾ Sempre aprendendo, sempre construindo.
+
+*Obrigada por visitar meu perfil!* 💜
+
+<a href="https://github.com/LayzaEmmannuelle?tab=repositories">Explore meus projetos →</a>
+
+</div>
