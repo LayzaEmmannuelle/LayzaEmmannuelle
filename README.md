@@ -75,7 +75,7 @@ Gosto de conhecer novas ferramentas, experimentar ideias e aprender com cada pro
 <h3>🤖 Chonbot Computer Vision</h3>
 
 <p align="justify">
-Projeto de visão computacional aplicado à robótica, utilizando YOLOv8 para detectar e identificar robôs a partir de imagens.
+Projeto de visão computacional aplicado à robótica, utilizando YOLOv8 para treinar um modelo capaz de detectar e identificar robôs a partir de imagens.
 </p>
 
 **Tecnologias:** Python · YOLOv8
@@ -90,19 +90,18 @@ Projeto de visão computacional aplicado à robótica, utilizando YOLOv8 para de
 <h3>💻 Programação Web</h3>
 
 <p align="justify">
-Repositório com projetos e exercícios de desenvolvimento web, incluindo APIs, rotas e práticas de programação com JavaScript e Node.js.
+Projeto de desenvolvimento backend com JavaScript e Node.js, voltado à construção de APIs REST, organização de rotas e implementação de funcionalidades para aplicações web.
 </p>
 
 **Tecnologias:** JavaScript · Node.js · Express
 
-<a href="https://github.com/LayzaEmmannuelle/ProgramacaoWeb">
+<a href="https://github.com/FelipeCRAguiar/ProgWeb_Back">
   <img src="https://img.shields.io/badge/Ver%20projeto-C4A7E7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## ⟡ Estatísticas do GitHub
