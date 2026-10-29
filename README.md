@@ -5,7 +5,7 @@
 # ୨ৎ Layza Emmanuelle
 
 
-<h3 align="center"><span style="color: #C4A7E7;">Estudante de Sistemas de Informação · CEFET/RJ</span></h3>
+### `Estudante de Sistemas de Informação · CEFET/RJ`
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=C4A7E7&center=true&vCenter=true&width=550&lines=Desenvolvimento+de+Software;Backend+e+Bancos+de+Dados;Python+%26+Vis%C3%A3o+Computacional;Sempre+aprendendo+algo+novo." alt="Apresentação animada"/>
